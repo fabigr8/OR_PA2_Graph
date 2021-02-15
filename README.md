@@ -1,2 +1,2 @@
 # OR_PA2_Graph
-Graphentheorie und Suchstrategien implementiert in Python. 
+Graphtheory and Graphsearch implemented in Python for the Lecture Operations Research @DHBW (https://www.dhbw.de/startseite) by Fabian Gwinner
